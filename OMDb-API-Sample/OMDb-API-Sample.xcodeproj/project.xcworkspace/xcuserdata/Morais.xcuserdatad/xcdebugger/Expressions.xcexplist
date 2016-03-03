@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ResultsTableViewController.prepareForSegue(UIStoryboardSegue, sender : AnyObject?) -&gt; ():ResultsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedMovieID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ResultsTableViewController.tableView(UITableView, numberOfRowsInSection : Int) -&gt; Int:ResultsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "moviesJson.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
