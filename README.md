@@ -1,7 +1,7 @@
 # OMDbAPI_Sample
 App criado para passar em uma entrevista
 
-Exercicio:
+<b>Exercicio:</b>
 
 Desenvolver um aplicativo que consiste em uma busca dos filmes na API do IMDB (http://omdbapi.com) e carregá-los em um Table View.
 
